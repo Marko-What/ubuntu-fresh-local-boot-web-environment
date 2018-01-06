@@ -1,0 +1,3 @@
+ubuntu fresh local boot web environment 
+	bash script which does setup fresh local boot web environment 
+			few minutes boot setup ...
