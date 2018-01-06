@@ -2,8 +2,8 @@
 
 
 # executing a script using commnads 
-#chmod +x SCRIPTNAME.sh
-#sudo ./SCRIPTNAME.sh
+#chmod +x install.sh
+#sudo ./install.sh
 
 
 #adding repository universe
